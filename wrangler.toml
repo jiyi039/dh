@@ -1,6 +1,6 @@
 name = "dh"
 compatibility_date = "2026-10-08"
 
-[assets]
-directory = "./dist"
-not_found_handling = "single-page-application"
+[build]
+command = "npm run build"
+cwd = "."
