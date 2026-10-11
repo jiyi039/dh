@@ -33,7 +33,7 @@
       <!-- Logo区域 -->
       <div class="logo-section">
         <img src="/logo.png" alt="logo" class="logo" />
-        <h1 class="site-title">{{ title || '便民导航' }}</h1>
+        <h1 class="site-title">{{ title || '猫猫导航' }}</h1>
         <button
           class="collapse-btn"
           @click="sidebarCollapsed = !sidebarCollapsed"
@@ -62,14 +62,14 @@
       <!-- 桌面端底部：个人主页入口 -->
       <div class="sidebar-footer">
         <a
-          href="https://itboy.top"
+          href="https://github.com/maodeyu180/mao_nav"
           target="_blank"
           rel="noopener noreferrer"
           class="github-link"
           title="访问我的个人主页"
         >
-          <span class="home-text">我的后花园</span>
-          <span class="home-icon">🏡</span>
+          <span class="home-text">开源不易，Star一下吧！</span>
+          <span class="home-icon">⭐</span>
         </a>
       </div>
     </aside>
