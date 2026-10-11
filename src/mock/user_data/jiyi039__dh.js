@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1791707369996",
+          "name": "办公导航",
+          "url": "https://hlei.ccwu.cc/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
