@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dhang.ccwu.cc/sitemap.xml
+Sitemap: https://8d6743a7.dh-7z4.pages.dev/sitemap.xml
