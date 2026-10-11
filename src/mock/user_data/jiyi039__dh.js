@@ -7,48 +7,6 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1791447605100",
-          "name": "华辰邮箱",
-          "url": "https://mail.cnechc.com",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/mail.cnechc.com?larger=true"
-        },
-        {
-          "id": "site-1791447527739",
-          "name": "网盘",
-          "url": "https://hul.us.ci/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/hul.us.ci?larger=true"
-        },
-        {
-          "id": "site-1791447676587",
-          "name": "需用计划",
-          "url": "https://www.kdocs.cn/l/cbi8NZdXYtLb",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.kdocs.cn?larger=true"
-        },
-        {
-          "id": "site-1791447655467",
-          "name": "登录平台",
-          "url": "https://sso.cnncecp.com/login/",
-          "description": "电子采购登录平台",
-          "icon": "https://www.faviconextractor.com/favicon/sso.cnncecp.com?larger=true"
-        },
-        {
-          "id": "site-1791447695531",
-          "name": "验收台账",
-          "url": "https://www.kdocs.cn/l/cq4NnTjMjJCp",
-          "description": "验收取号台账",
-          "icon": "https://www.faviconextractor.com/favicon/www.kdocs.cn?larger=true"
-        },
-        {
-          "id": "site-1791447632068",
-          "name": "中核采购平台网",
-          "url": "https://one.cnncecp.com/cnnc-pm-web/portal.html",
-          "description": "查询采购公示结果公示等",
-          "icon": "https://www.faviconextractor.com/favicon/one.cnncecp.com?larger=true"
-        },
-        {
           "id": "site-1778929068955",
           "name": "猫图 AI",
           "url": "https://catsapi.com",
