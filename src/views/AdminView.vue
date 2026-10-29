@@ -140,7 +140,7 @@ const saving = ref(false)
 // 管理界面状态
 const activeTab = ref('categories')
 const categories = ref([])
-const navTitle = ref('便民导航') // 保存网站标题
+const navTitle = ref('猫猫导航') // 保存网站标题
 const selectedCategoryId = ref('') // 用于站点管理的选中分类
 
 // 紧急兜底：如果5秒后loading还是true，强制重置
