@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://hlei.ccwu.cc/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1795012355577",
+          "name": "不忘初心系统",
+          "url": "https://www.pc528.net/",
+          "description": "精简系统",
+          "icon": "https://www.faviconextractor.com/favicon/www.pc528.net"
         }
       ]
     },
